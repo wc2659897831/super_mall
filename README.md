@@ -1,4 +1,4 @@
-# new_superll2
+# super_mall
 
 ## Project setup
 ```
